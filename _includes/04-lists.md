@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- I like travelling.
+- I like to read books.
+- I like climbing.
