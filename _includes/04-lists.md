@@ -1,0 +1,3 @@
+- I like travelling.
+- I like to read books.
+- I like climbing.
