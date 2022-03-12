@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Kukes City](https://invest-in-albania.org/wp-content/uploads/Kukesi_perfshire_Gjallicen__Fierzen_....jpg)
